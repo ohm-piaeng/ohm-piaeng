@@ -14,7 +14,7 @@ I'm always learning and exploring ways to build better software.
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vue,react,ts,js,java,nodejs,elysia,mongodb,postgres,mysql,docker,git"
+      src="https://skillicons.dev/icons?i=vue,react,ts,js,java,nodejs,express,elysia,mongodb,postgres,mysql,docker,git"
       alt="Skills"
     />
   </a>
