@@ -1,16 +1,21 @@
-## Hi there 👋
+## Ohm Piaeng ✨
+`Software Engineer` | `Full Stack Developer`
 
-<!--
-**ohm-piaeng/ohm-piaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ohm! 👋 I'm currently a **Full Stack Developer at Okontek**.
 
-Here are some ideas to get you started:
+I'm interested in software architecture and enjoy building web applications.
+I'm always learning and exploring ways to build better software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./img/peeraphol.webp" alt="ohm profile" width="300" />
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=vue,react,ts,js,java,nodejs,elysia,mongodb,postgres,mysql,docker,git"
+      alt="Skills"
+    />
+  </a>
+</p>
