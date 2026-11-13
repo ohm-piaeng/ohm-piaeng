@@ -1,4 +1,4 @@
-## Ohm Piaeng ✨
+## Ohm
 `Software Engineer` | `Full Stack Developer`
 
 Hi, I'm Ohm! 👋 I'm currently a **Full Stack Developer at Okontek**.
