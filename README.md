@@ -9,11 +9,6 @@ I'm always learning and exploring ways to build better software.
 [My Portfolio](https://peeraphol.portfolio.poteto.me/)
 
 <p align="center">
-  <img src="./img/peeraphol.webp" alt="Ohm profile" width="300" />
-  <br />
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=vue,react,ts,js,java,nodejs,express,elysia,mongodb,postgres,mysql,docker,git"
