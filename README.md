@@ -1,8 +1,6 @@
 ## Ohm
 `Software Engineer` | `Full Stack Developer`
 
-Hi, I'm Ohm! 👋 I'm currently a **Full Stack Developer at Okontek**.
-
 I'm interested in software architecture and enjoy building web applications.
 I'm always learning and exploring ways to build better software.
 
